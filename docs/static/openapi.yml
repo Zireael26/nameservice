@@ -51919,6 +51919,8 @@ definitions:
     title: >-
       SignatureCounts contains information about signature reporting for a
       number of blocks
+  zireael26.nameservice.nameservice.MsgBuyNameResponse:
+    type: object
   zireael26.nameservice.nameservice.Params:
     type: object
     description: Params defines the parameters for the module.
