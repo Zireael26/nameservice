@@ -51921,6 +51921,8 @@ definitions:
       number of blocks
   zireael26.nameservice.nameservice.MsgBuyNameResponse:
     type: object
+  zireael26.nameservice.nameservice.MsgSetNameResponse:
+    type: object
   zireael26.nameservice.nameservice.Params:
     type: object
     description: Params defines the parameters for the module.
